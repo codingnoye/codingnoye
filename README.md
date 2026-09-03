@@ -50,5 +50,4 @@
 ## 🧸 토이프로젝트 전시대
 
 - [CoMantle](https://comantle.noye.dev/) - 멀티플레이 꼬맨틀
-- [리치마작 튜토리얼](https://noye.work/majong-tutorial) - 실습형 리치마작 튜토리얼
 - [PDF Tool](https://pdf-tool.noye.work) - PDF 병합/편집 도구
